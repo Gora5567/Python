@@ -17,7 +17,7 @@ print("""
           :_____:
           |     | 
           |     |           
-          |     |           
+          |  МЕ |           
           |     |           
          /|     |\ 
        /__|_____|__\ 
@@ -26,3 +26,16 @@ print("""
         ““““   ““““              
 """)
 end_task(2)
+
+start_task(3)
+print("Ruby"
+      "Swift"
+      "Kotlin"
+      "Rust"
+      "Go"
+      "TypeScript"
+      "Scala"
+      "Lua"
+      "Dart"
+      "Julia")
+end_task(3)
